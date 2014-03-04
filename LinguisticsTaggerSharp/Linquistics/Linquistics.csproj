@@ -104,8 +104,5 @@
       <DependentUpon>LinquisticsViewController.cs</DependentUpon>
     </Compile>
   </ItemGroup>
-  <ItemGroup>
-    <InterfaceDefinition Include="LinquisticsViewController.xib" />
-  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

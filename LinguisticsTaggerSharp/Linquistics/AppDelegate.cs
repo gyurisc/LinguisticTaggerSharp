@@ -27,6 +27,8 @@ namespace Linquistics
 			window = new UIWindow (UIScreen.MainScreen.Bounds);
 
 			viewController = new LinquisticsViewController ();
+			viewController.View.BackgroundColor = UIColor.White; 
+
 			window.RootViewController = viewController;
 			window.MakeKeyAndVisible ();
 			
