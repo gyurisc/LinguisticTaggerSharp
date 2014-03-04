@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linquistics", "Linquistics\Linquistics.csproj", "{11557E27-EEC2-4EAE-80C1-F38A71C4374A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11557E27-EEC2-4EAE-80C1-F38A71C4374A}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{11557E27-EEC2-4EAE-80C1-F38A71C4374A}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{11557E27-EEC2-4EAE-80C1-F38A71C4374A}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{11557E27-EEC2-4EAE-80C1-F38A71C4374A}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{11557E27-EEC2-4EAE-80C1-F38A71C4374A}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{11557E27-EEC2-4EAE-80C1-F38A71C4374A}.Debug|iPhone.Build.0 = Debug|iPhone
+		{11557E27-EEC2-4EAE-80C1-F38A71C4374A}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{11557E27-EEC2-4EAE-80C1-F38A71C4374A}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{11557E27-EEC2-4EAE-80C1-F38A71C4374A}.Release|iPhone.ActiveCfg = Release|iPhone
+		{11557E27-EEC2-4EAE-80C1-F38A71C4374A}.Release|iPhone.Build.0 = Release|iPhone
+		{11557E27-EEC2-4EAE-80C1-F38A71C4374A}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{11557E27-EEC2-4EAE-80C1-F38A71C4374A}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Linquistics\Linquistics.csproj
+	EndGlobalSection
+EndGlobal
